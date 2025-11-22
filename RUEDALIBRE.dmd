@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="RUEDALIBRE" id="DE9F61C7-B98A-27D7-AA30-97DE3E8837AF" version="3.5">
+<createdBy>CAR_IGL</createdBy>
+<createdTime>2025-10-26 11:02:08 UTC</createdTime>
+<ownerDesignName>RUEDALIBRE</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>DE9F61C7-B98A-27D7-AA30-97DE3E8837AF</designId>
+</OSDM_Design>

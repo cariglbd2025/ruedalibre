@@ -1,0 +1,6 @@
+NUM_IDENTIDAD,NOMBRE,APELLIDO1,APELLIDO2,TELEFONO,EMAIL,DIRECCION,LOCALIDAD,EMPRESA,PAIS_ID_PAIS
+12345678A,Teodoro,Zambombo,Caracuel,611111111,teo.zambombo@gmail.com,Gran Vía 28,Madrid,0,1
+87654321B,Filemona,Turbina,Churumbel,622222222,f.turbina@hotmail.es,Paseo de Gracia 45,Barcelona,0,1
+45678912C,Jean-Pierre,Fantomas,DuFromage,633333333,jp.fantomas@gmail.fr,Rue de la Paix 15,París,0,2
+98765432D,Klaus-Wilhelm,Donnerblitz,,644444444,kw.donnerblitz@blitzkraft.de,Brandenburger Tor 1,Berlín,1,3
+13579246E,Sir Reginald,Pumpernickel,,655555555,sir.pump@gmail.co.uk,Main Street 25,Londres,0,4
